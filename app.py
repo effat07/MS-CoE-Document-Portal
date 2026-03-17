@@ -57,7 +57,7 @@ html, body, [class*="css"]  {{
 }}
 .card img {{
    width:95px;
-   margin-top: 5px;S
+   margin-top: 5px;
    margin-bottom:5px;
    transition:all 0.3s ease;
 }}
