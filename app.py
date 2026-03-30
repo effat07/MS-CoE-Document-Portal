@@ -76,7 +76,7 @@ html, body, [class*="css"]  {{
 }}
 
 .desc {{
-   font-size: 12px;
+   font-size: 10px;
    color: #6b7280;
    margin-top: 4px;
    line-height: 1.3;
